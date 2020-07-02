@@ -1,0 +1,11 @@
+#game{
+    width: 450px;
+    margin: 20px auto;
+}
+.el{
+    width: 150px;
+    height: 150px;
+    float: left;
+    font-size: 40px;
+   color: black;
+}
